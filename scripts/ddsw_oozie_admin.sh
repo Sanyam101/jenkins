@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#  adding comment  
 RELEASE_ID=$1
 TEMP_DIR=$2
 OOZIE_WEB_ROOT=$3
