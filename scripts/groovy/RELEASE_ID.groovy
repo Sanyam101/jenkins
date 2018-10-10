@@ -1,4 +1,4 @@
-/** Adding comments 
+/** Removing comments 
  * IMPORTANT
  * Make sure /tmp/releases.txt is accessible for Read, Write and Execute
  * Make sure the special characters (`) are retained in this statement
