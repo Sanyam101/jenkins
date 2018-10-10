@@ -1,5 +1,5 @@
 #!/bin/sh
-# updated by me to
+# updated by me to check polling
 export JENKINS_HOME=/ddsw/jenkins/home
 echo "JENKINS_HOME Set to : " $JENKINS_HOME
 
