@@ -1,4 +1,4 @@
-/**
+/** Added new comments
  * This script is used under Jenkins Jobs
  *      + DDSW - Release
  */
