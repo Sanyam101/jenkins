@@ -1,6 +1,4 @@
 #!/bin/sh
-# 
-#
 # adding new line
 # check for updates
 export JENKINS_HOME=/ddsw/jenkins/home
