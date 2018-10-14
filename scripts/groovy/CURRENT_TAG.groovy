@@ -1,4 +1,4 @@
-/** Added new comments
+/** Added new comments for jenskins job testing
  * This script is used under Jenkins jobs
  *      + DDSW - Release
  */
