@@ -9,4 +9,3 @@ reference-codes\(standalone_wf\)
 rental_contract
 rental_quote
 work_order
-invoice
