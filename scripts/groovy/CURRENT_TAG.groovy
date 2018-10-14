@@ -1,5 +1,5 @@
 /** Added new comments
- * This script is used under Jenkins Jobs
+ * This script is used under Jenkins jobs file
  *      + DDSW - Release
  */
 
