@@ -1,4 +1,5 @@
 #!/bin/sh
+#shebang script
 # adding commnets for checking hadoop update
 export JENKINS_HOME=/ddsw/jenkins/home
 echo "JENKINS_HOME Set to : " $JENKINS_HOME
